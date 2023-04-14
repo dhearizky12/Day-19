@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "c:\\C#\\Bootcamp\\vscode\\Day 19\\22RaceConditionMonitor\\22RaceConditionMonitor.csproj": {}
+    "d:\\Dhea_Bootcamp\\learn\\Pertemuan 19\\Day-19\\22RaceConditionMonitor\\22RaceConditionMonitor.csproj": {}
   },
   "projects": {
-    "c:\\C#\\Bootcamp\\vscode\\Day 19\\22RaceConditionMonitor\\22RaceConditionMonitor.csproj": {
+    "d:\\Dhea_Bootcamp\\learn\\Pertemuan 19\\Day-19\\22RaceConditionMonitor\\22RaceConditionMonitor.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\C#\\Bootcamp\\vscode\\Day 19\\22RaceConditionMonitor\\22RaceConditionMonitor.csproj",
+        "projectUniqueName": "d:\\Dhea_Bootcamp\\learn\\Pertemuan 19\\Day-19\\22RaceConditionMonitor\\22RaceConditionMonitor.csproj",
         "projectName": "22RaceConditionMonitor",
-        "projectPath": "c:\\C#\\Bootcamp\\vscode\\Day 19\\22RaceConditionMonitor\\22RaceConditionMonitor.csproj",
-        "packagesPath": "C:\\Users\\kinar\\.nuget\\packages\\",
-        "outputPath": "c:\\C#\\Bootcamp\\vscode\\Day 19\\22RaceConditionMonitor\\obj\\",
+        "projectPath": "d:\\Dhea_Bootcamp\\learn\\Pertemuan 19\\Day-19\\22RaceConditionMonitor\\22RaceConditionMonitor.csproj",
+        "packagesPath": "C:\\Users\\Formulatrix\\.nuget\\packages\\",
+        "outputPath": "d:\\Dhea_Bootcamp\\learn\\Pertemuan 19\\Day-19\\22RaceConditionMonitor\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\kinar\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Formulatrix\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"

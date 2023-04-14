@@ -1,0 +1,15 @@
+d:\Dhea_Bootcamp\learn\Pertemuan 19\Day-19\22RaceConditionMonitor\bin\Debug\net7.0\22RaceConditionMonitor.exe
+d:\Dhea_Bootcamp\learn\Pertemuan 19\Day-19\22RaceConditionMonitor\bin\Debug\net7.0\22RaceConditionMonitor.deps.json
+d:\Dhea_Bootcamp\learn\Pertemuan 19\Day-19\22RaceConditionMonitor\bin\Debug\net7.0\22RaceConditionMonitor.runtimeconfig.json
+d:\Dhea_Bootcamp\learn\Pertemuan 19\Day-19\22RaceConditionMonitor\bin\Debug\net7.0\22RaceConditionMonitor.dll
+d:\Dhea_Bootcamp\learn\Pertemuan 19\Day-19\22RaceConditionMonitor\bin\Debug\net7.0\22RaceConditionMonitor.pdb
+d:\Dhea_Bootcamp\learn\Pertemuan 19\Day-19\22RaceConditionMonitor\obj\Debug\net7.0\22RaceConditionMonitor.csproj.AssemblyReference.cache
+d:\Dhea_Bootcamp\learn\Pertemuan 19\Day-19\22RaceConditionMonitor\obj\Debug\net7.0\22RaceConditionMonitor.GeneratedMSBuildEditorConfig.editorconfig
+d:\Dhea_Bootcamp\learn\Pertemuan 19\Day-19\22RaceConditionMonitor\obj\Debug\net7.0\22RaceConditionMonitor.AssemblyInfoInputs.cache
+d:\Dhea_Bootcamp\learn\Pertemuan 19\Day-19\22RaceConditionMonitor\obj\Debug\net7.0\22RaceConditionMonitor.AssemblyInfo.cs
+d:\Dhea_Bootcamp\learn\Pertemuan 19\Day-19\22RaceConditionMonitor\obj\Debug\net7.0\22RaceConditionMonitor.csproj.CoreCompileInputs.cache
+d:\Dhea_Bootcamp\learn\Pertemuan 19\Day-19\22RaceConditionMonitor\obj\Debug\net7.0\22RaceConditionMonitor.dll
+d:\Dhea_Bootcamp\learn\Pertemuan 19\Day-19\22RaceConditionMonitor\obj\Debug\net7.0\refint\22RaceConditionMonitor.dll
+d:\Dhea_Bootcamp\learn\Pertemuan 19\Day-19\22RaceConditionMonitor\obj\Debug\net7.0\22RaceConditionMonitor.pdb
+d:\Dhea_Bootcamp\learn\Pertemuan 19\Day-19\22RaceConditionMonitor\obj\Debug\net7.0\22RaceConditionMonitor.genruntimeconfig.cache
+d:\Dhea_Bootcamp\learn\Pertemuan 19\Day-19\22RaceConditionMonitor\obj\Debug\net7.0\ref\22RaceConditionMonitor.dll

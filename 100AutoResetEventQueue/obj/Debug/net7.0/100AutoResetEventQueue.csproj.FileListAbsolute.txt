@@ -1,0 +1,17 @@
+d:\Dhea_Bootcamp\learn\Pertemuan 19\Day-19\100AutoResetEventQueue\bin\Debug\net7.0\100AutoResetEventQueue.exe
+d:\Dhea_Bootcamp\learn\Pertemuan 19\Day-19\100AutoResetEventQueue\bin\Debug\net7.0\100AutoResetEventQueue.deps.json
+d:\Dhea_Bootcamp\learn\Pertemuan 19\Day-19\100AutoResetEventQueue\bin\Debug\net7.0\100AutoResetEventQueue.runtimeconfig.json
+d:\Dhea_Bootcamp\learn\Pertemuan 19\Day-19\100AutoResetEventQueue\bin\Debug\net7.0\100AutoResetEventQueue.dll
+d:\Dhea_Bootcamp\learn\Pertemuan 19\Day-19\100AutoResetEventQueue\bin\Debug\net7.0\100AutoResetEventQueue.pdb
+d:\Dhea_Bootcamp\learn\Pertemuan 19\Day-19\100AutoResetEventQueue\obj\Debug\net7.0\100AutoResetEventQueue.csproj.AssemblyReference.cache
+d:\Dhea_Bootcamp\learn\Pertemuan 19\Day-19\100AutoResetEventQueue\obj\Debug\net7.0\100AutoResetEventQueue.GeneratedMSBuildEditorConfig.editorconfig
+d:\Dhea_Bootcamp\learn\Pertemuan 19\Day-19\100AutoResetEventQueue\obj\Debug\net7.0\100AutoResetEventQueue.AssemblyInfoInputs.cache
+d:\Dhea_Bootcamp\learn\Pertemuan 19\Day-19\100AutoResetEventQueue\obj\Debug\net7.0\100AutoResetEventQueue.AssemblyInfo.cs
+d:\Dhea_Bootcamp\learn\Pertemuan 19\Day-19\100AutoResetEventQueue\obj\Debug\net7.0\100AutoResetEventQueue.csproj.CoreCompileInputs.cache
+d:\Dhea_Bootcamp\learn\Pertemuan 19\Day-19\100AutoResetEventQueue\obj\Debug\net7.0\100AutoResetEventQueue.dll
+d:\Dhea_Bootcamp\learn\Pertemuan 19\Day-19\100AutoResetEventQueue\obj\Debug\net7.0\refint\100AutoResetEventQueue.dll
+d:\Dhea_Bootcamp\learn\Pertemuan 19\Day-19\100AutoResetEventQueue\obj\Debug\net7.0\100AutoResetEventQueue.pdb
+d:\Dhea_Bootcamp\learn\Pertemuan 19\Day-19\100AutoResetEventQueue\obj\Debug\net7.0\100AutoResetEventQueue.genruntimeconfig.cache
+d:\Dhea_Bootcamp\learn\Pertemuan 19\Day-19\100AutoResetEventQueue\obj\Debug\net7.0\ref\100AutoResetEventQueue.dll
+d:\Dhea_Bootcamp\learn\Pertemuan 19\Day-19\100AutoResetEventQueue\bin\Debug\net7.0\SixLabors.ImageSharp.dll
+d:\Dhea_Bootcamp\learn\Pertemuan 19\Day-19\100AutoResetEventQueue\obj\Debug\net7.0\100AutoResetEventQueue.csproj.CopyComplete

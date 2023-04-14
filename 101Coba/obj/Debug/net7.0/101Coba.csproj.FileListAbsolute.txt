@@ -1,0 +1,15 @@
+d:\Dhea_Bootcamp\learn\Pertemuan 19\Day-19\101Coba\bin\Debug\net7.0\101Coba.exe
+d:\Dhea_Bootcamp\learn\Pertemuan 19\Day-19\101Coba\bin\Debug\net7.0\101Coba.deps.json
+d:\Dhea_Bootcamp\learn\Pertemuan 19\Day-19\101Coba\bin\Debug\net7.0\101Coba.runtimeconfig.json
+d:\Dhea_Bootcamp\learn\Pertemuan 19\Day-19\101Coba\bin\Debug\net7.0\101Coba.dll
+d:\Dhea_Bootcamp\learn\Pertemuan 19\Day-19\101Coba\bin\Debug\net7.0\101Coba.pdb
+d:\Dhea_Bootcamp\learn\Pertemuan 19\Day-19\101Coba\obj\Debug\net7.0\101Coba.csproj.AssemblyReference.cache
+d:\Dhea_Bootcamp\learn\Pertemuan 19\Day-19\101Coba\obj\Debug\net7.0\101Coba.GeneratedMSBuildEditorConfig.editorconfig
+d:\Dhea_Bootcamp\learn\Pertemuan 19\Day-19\101Coba\obj\Debug\net7.0\101Coba.AssemblyInfoInputs.cache
+d:\Dhea_Bootcamp\learn\Pertemuan 19\Day-19\101Coba\obj\Debug\net7.0\101Coba.AssemblyInfo.cs
+d:\Dhea_Bootcamp\learn\Pertemuan 19\Day-19\101Coba\obj\Debug\net7.0\101Coba.csproj.CoreCompileInputs.cache
+d:\Dhea_Bootcamp\learn\Pertemuan 19\Day-19\101Coba\obj\Debug\net7.0\101Coba.dll
+d:\Dhea_Bootcamp\learn\Pertemuan 19\Day-19\101Coba\obj\Debug\net7.0\refint\101Coba.dll
+d:\Dhea_Bootcamp\learn\Pertemuan 19\Day-19\101Coba\obj\Debug\net7.0\101Coba.pdb
+d:\Dhea_Bootcamp\learn\Pertemuan 19\Day-19\101Coba\obj\Debug\net7.0\101Coba.genruntimeconfig.cache
+d:\Dhea_Bootcamp\learn\Pertemuan 19\Day-19\101Coba\obj\Debug\net7.0\ref\101Coba.dll
